@@ -437,10 +437,6 @@ http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
 #EXTGRP:УКРАИНА
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
 
-#EXTINF:-1 ,Fashion UA
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-
 #EXTINF:-1 ,Fashion TV
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
