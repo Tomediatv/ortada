@@ -67,9 +67,6 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1
 #EXTINF:0 tvg-id="ext" group-title="Movies",RU TNT International
 http://ott-cdn.ucom.am/s19/04.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",X Jasmin TV
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-
 #EXTINF:-1,STAR Movies
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 
@@ -96,9 +93,6 @@ https://live.cgtn.com/500/prog_index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Music",CMC US
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-
-#EXTINF:67,E!
-http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="CNBC.nws" group-title="Movies",ENT CNBC
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
@@ -175,9 +169,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
 #EXTINF:-1 group-title="Новости",RT HD
 http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
 
-#EXTINF:-1 group-title="Кино и Сериалы",TV XXI
-http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/chunklist.m3u8
-
 #EXTINF:-1 group-title="Кино и Сериалы",Shot TV
 http://persik.tv/stream/7725/408679/10454.m3u8
 
@@ -210,9 +201,6 @@ https://www.djing.com/tv/s-28634-05-wild-edm.m3u8
 
 #EXTINF:-1 group-title="Музыкальные",MTV mix
 http://online.mtvmix.ru:18092/ios/live.m3u8
-
-#EXTINF:-1 group-title="Музыкальные",Nago TV
-http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные",Ocko TV
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
@@ -250,9 +238,6 @@ http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 #EXTINF:-1 group-title="Музыкальные",TRACE Kitoko
 http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 
-#EXTINF:-1 group-title="Развлекательные",HD Media
-http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
-
 #EXTINF:-1 group-title="Природа и путешествия",Travel Channel HD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w79979599.m3u8
 
@@ -265,7 +250,7 @@ http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/terra/terra0_169_720p.json/index-v
 #EXTINF:-1 group-title="Региональные",Global Star
 http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
 
-#EXTINF:-1 group-title="Мода",World Fashion Россия HD
+#EXTINF:-1 group-title="Мода",Fashion World  Россия HD
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,112 HD
@@ -334,7 +319,7 @@ http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/playlist.m3u8
 #EXTINF:-1,Тюменское Время
 http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 
-#EXTINF:-1,Odessa Fashion TV
+#EXTINF:-1,Fashion Odessa  TV
 http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
 
 #EXTINF:-1,НТМ HD (Мордовия)
@@ -342,9 +327,6 @@ http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8
 
 #EXTINF:-1,Новое Радио ТВ
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
-
-#EXTINF:-1,Толк ТВ (Барнаул)
-http://5c4d56be6c927.streamlock.net:1935/tolknewstv/livestream/chunklist.m3u8
 
 #EXTINF:-1,1HD Music TV
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
@@ -455,11 +437,11 @@ http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
 #EXTGRP:УКРАИНА
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
 
-#EXTINF:-1 ,HD Fashion UA
+#EXTINF:-1 ,Fashion UA
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
-#EXTINF:-1 ,ID Fashion TV
+#EXTINF:-1 ,Fashion TV
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 
@@ -472,10 +454,6 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1793148297.m3
 #EXTGRP:МУЗЫКА
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 
-#EXTINF:-1 ,Travel HD BG
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-
 #EXTINF:-1 ,ULTRA REX HD
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
@@ -484,7 +462,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/var
 #EXTGRP:УКРАИНА
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 
-#EXTINF:-1 ,World Fashion Int
+#EXTINF:-1 ,Fashion World Int
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
 
@@ -542,9 +520,6 @@ http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
 #EXTGRP:ФИЛЬМЫ
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 
-#EXTINF:-1 ,Fresh TV HD
-https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
-
 #EXTINF:-1 ,Russian Music Box HD
 https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
 
@@ -575,29 +550,14 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:85,National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
-#EXTINF:96,Investigation Discovery
-http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
-
 #EXTINF:100,Outdoor Channel
 http://84.22.33.254/unicast.outdoorchannel/index.m3u8
 
 #EXTINF:137,Camera Smile TV
 https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
 
-#EXTINF:216,Plant-Based Network HD
-https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
-
 #EXTINF:217,Youtoo America HD
 https://thegateway.app/YouToo/CueTones/playlist.m3u8
-
-#EXTINF:20,Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
-
-#EXTINF:80,The T
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
-
-#EXTINF:118,CBN
-https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/index_500_av-b.m3u8
 
 #EXTINF:209,ABC News Live HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
