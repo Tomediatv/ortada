@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tv3-lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Tv3-logo.png",TV3 hls
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv3-lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Tv3-logo.png",TV3
 https://cdnlb.tvplayhome.lt/live/eds/TV3_LT_SD/H1s_0utput/TV3_LT_SD.m3u8
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tv6-lt" tvg-logo="http://res.lt/wp-content/uploads/2019/02/tv6_logo_hd-150x150.png",TV6 hls
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv6-lt" tvg-logo="http://res.lt/wp-content/uploads/2019/02/tv6_logo_hd-150x150.png",TV6
 https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_SD/H1s_0utput/TV6_LT_SD.m3u8
 
 #EXTINF:-1,LRT Lituanica
@@ -96,9 +96,6 @@ http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:44,CGTN
 https://live.cgtn.com/500/prog_index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Music",CMC US
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
 #EXTINF:0 tvg-id="CNBC.nws" group-title="Movies",ENT CNBC
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
@@ -319,9 +316,6 @@ http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:-1,РыКий
 http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
 
-#EXTINF:-1,Трофей HD
-http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/playlist.m3u8
-
 #EXTINF:-1,Тюменское Время
 http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 
@@ -443,10 +437,6 @@ http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
 #EXTGRP:УКРАИНА
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
 
-#EXTINF:-1 ,Fashion TV
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
-
 #EXTINF:-1 ,Jasmin HD
 #EXTGRP:МУЗЫКА
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1793148297.m3u8
@@ -510,17 +500,13 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 ,RTVI HD
 #http://rr2.1ott.net/~109f4bfdc9d6686f40d0f1d46bd8f01b00d/124
 
-#EXTINF:-1 ,U.HD
+#EXTINF:-1 ,UHD
 #EXTGRP:ФИЛЬМЫ
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 
 #EXTINF:-1,Amedia Hit HD
 #EXTGRP:ФИЛЬМЫ
 http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
-
-#EXTINF:-1,Bollywood HD
-#EXTGRP:ФИЛЬМЫ
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 
 #EXTINF:-1 ,Russian Music Box HD
 https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
@@ -539,12 +525,6 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365e
 
 #EXTINF:51,Best of A&E
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
-
-#EXTINF:63,Reel Px Family
-https://1294836789.rsc.cdn77.org/1294836789/tracks-v1a1/mono.m3u8
-
-#EXTINF:68,Filmbox
-https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
 
 #EXTINF:82,H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
